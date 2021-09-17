@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NorHalim
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Laravel 8
+- 👀 I’m interested in Web Programming, Game Development
+- 🌱 I’m currently learning C#
 
 <!---
 NorHalim/NorHalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
