@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NorHalim
-- 👀 I’m interested in Web Programming, Game Development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Web Programming, Game Development, and Cyber Security
+- 🌱 I’m currently learning Cyber Security
 
 <!---
 NorHalim/NorHalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
