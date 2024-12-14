@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NorHalim
-- 👀 I’m interested in Web Programming, Game Development, and Cyber Security
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Cyber Security
 
 <!---
